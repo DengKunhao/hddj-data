@@ -1,0 +1,2425 @@
+body{
+	overflow-x: hidden;
+}
+.outlineVisionGoals2035145{
+	background: url(../images/1452035yjmb_bg.jpg) top center no-repeat;
+	padding-bottom: 74px;
+}
+.outlineVisionGoalsTitle{
+	width: 1100px;
+	margin: 0 auto 20px;
+}
+.outlineVisionGoals{
+	position: relative;
+	width: 1100px;
+	height: 572px;
+	margin: 0 auto;
+	background: url(../images/outlineVisionGoalsBg.png) 0 0 no-repeat;
+	
+}
+.outlineVisionGoalsContent{
+	padding-top: 42px;
+	overflow: hidden;
+}
+.outlineVisionGoalsItem{
+	display: none;
+}
+.outlineVisionGoalsItemScrollFather{
+	position: relative;
+	width: 816px;
+	height: 354px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.jiejueNiceScroll{
+	height: 253px;
+	position: relative;
+}
+.suduTitle{
+	height: 42px;
+}
+.niceScroll,.o,.zhj-bbqw-cont{
+	height: 350px;
+}
+.niceScroll{
+	width: 754px;
+	height: 350px;
+	padding: 0 41px;
+}
+a.prevBtn,a.nextBtn{
+	position: absolute;
+	top: 45%;
+	display: block;
+	width: 79px;
+	height: 38px;
+}
+a.prevBtn{
+	left: 15px;
+	background: url(../images/prevBtn.jpg) 0 0 no-repeat;
+}
+a.prevBtn:hover{
+	background: url(../images/prevBtnHover.jpg) 0 0 no-repeat;
+}
+a.nextBtn{
+	right: 34px;
+	background: url(../images/nextBtn.jpg) 0 0 no-repeat;
+}
+a.nextBtn:hover{
+	background: url(../images/nextBtnHover.jpg) 0 0 no-repeat;
+}
+
+.outlineVisionGoalsItemScroll{
+	position: absolute;
+	left: 0;
+	top: 64px;
+}
+.outlineVisionGoalsItemScroll li{
+	position: relative;
+	font-family:'microsoft yahei';
+	float: left;
+	width: 817px;
+}
+.outlineVisionGoalsItemScroll li h2{
+	margin-bottom: 21px;
+}
+.outlineVisionGoalsItemScroll li h5{
+	font-size: 24px;
+	color: #0e4981;
+	line-height: 24px;
+	margin-bottom: 28px;
+}
+.suduFontFather{
+	position: relative;
+	width: 701px;
+	height: 226px;
+	overflow: hidden;
+}
+.suduFont{
+	font-family: 'microsoft yahei';
+	line-height: 30px;
+	color: #3d3d3d;
+	font-size: 14px;
+	padding-right: 38px;
+	width: 701px;
+	height: 226px;
+}
+
+.suduFont p{
+	text-indent: 2em;
+	margin-bottom: 28px;
+}
+
+
+.pageNum{
+	float: right;
+	font-size: 30px;
+	color: #568cc8;
+	padding-right: 192px;
+	text-align: center;
+	
+}
+.pageNum strong{
+	display: inline-block;
+	width: 38px;
+	height: 39px;
+	background: url(../images/directionline.jpg) 0 center no-repeat;
+}
+.pageNum var{
+	color: #ff7978;
+	font-style: italic;
+	
+}
+.pageNum span{
+	font-size: 50px;
+	font-weight: 100;
+}
+.pageNum em{
+	color: #568cc8;
+}
+.outlineVisionGoalsNav{
+	position: absolute;
+	right: 0;
+	bottom: 10px;
+	font-family: 'microsoft yahei';
+}
+.outlineVisionGoalsNav a{
+	display: inline-block;
+	width: 132px;
+	height: 53px;
+	background: url(../images/outlineVisionGoalsNavbg.png) 0 0 no-repeat;
+	text-align: center;
+	line-height: 44px;
+	color: #2c5eb5;
+	font-size: 24px;
+}
+.outlineVisionGoalsNav a.active{
+	background: url(../images/outlineVisionGoalsNavHoverbg.png) 0 0 no-repeat;
+	color: #fff;
+}
+.zhj-bbqw-cont,.zhj-bbjd{
+	width: 754px;
+	padding: 0 53px;
+	margin: 0 auto;
+}
+
+
+.voice_minister_nav{
+	width: 400px;
+	margin: 0 auto;
+	font-family: 'microsoft yahei';
+	line-height: 30px;
+	color: #3d3d3d;
+	font-size: 24px;
+	margin-bottom: 20px;
+}
+.voice_minister_nav a{
+	border: 1px solid #5092ce;
+	float: left;
+	margin-left: 26px;
+	color: #005292;
+	text-align: center;
+	border-radius: 18px;
+	width: 160px;
+	height: 40px;
+	line-height: 40px;
+	font-weight: bold;
+}
+.voice_minister_nav a.active{
+	color: #fff;
+	background: #448aca;
+}
+.voice_minister_item{
+	display: none;
+}
+.voice_minister_specific{
+	height: 353px;
+}
+.voice_minister_specific_left{
+	width: 480px;
+}
+.voice_minister_specific_right {
+    width: 544px;
+    height: 272px;
+    padding: 22px 38px 59px;
+    background: #f6f6f6;
+    font-family: "microsoft yahei";
+}
+.voice_minister_specific_right h2{
+	margin-bottom: 22px;
+	background: url(../images/2022bzzsbg.png) 0 0 no-repeat;
+	width: 145px;
+	height: 44px;
+	text-align: center;
+	line-height: 38px;
+	font-size: 18px;
+	color: #fff;
+}
+.voice_minister_specific_right h5{
+	text-align: left;
+	margin-bottom: 25px;
+	color: #005292;
+	font-size: 18px;
+	border-bottom: 1px dashed #005292;
+	padding-bottom: 25px;
+	line-height: 30px;
+}
+.voice_minister_specific_right p{
+	line-height: 30px;
+	color: #434343;
+	font-size: 16px;
+	margin-bottom: 25px;
+	overflow: hidden;
+	height: 85px;
+	text-align: left;
+}
+.voice_minister_specific_right span{
+	color: #005292;
+	font-size: 16px;
+	display: inline-block;
+	width: 88px;
+	height: 28px;
+	text-align: center;
+	line-height: 28px;
+	border: 1px solid #5092ce;
+	border-radius: 4px;
+	
+}
+.voice_minister_specific_right span:hover{
+	cursor: pointer;
+}
+.lookXiangqing{
+	display: block;
+	text-align: right;
+}
+.pagination {
+  position: absolute;
+  z-index: 20;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+.swiper-pagination-switch {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 8px;
+  background: #fff;
+  margin: 0 5px;
+  opacity: 0.8;
+  border: 1px solid #1870af;
+  cursor: pointer;
+}
+.swiper-active-switch {
+  background: #1870af;
+}
+
+
+    .dys_2019NationalConference {
+        position: relative;
+        background-position: top center;
+        background-repeat: no-repeat;
+		background-image:url(../images/2022qglhshouye_bg.jpg);
+		
+    }
+	/*banner*/
+	@media only screen and (max-width:1800px) {
+	 
+		.dys_2019NationalConference{
+			background-image:url(../images/2022qglhzpb_banner.jpg);
+			padding-top:231px;
+		}
+			
+	}
+    .dys_second_headline .dys_headline a{
+		font-size: 28px;
+	}
+	.dys_second_headline .dys_headline{
+		padding-top: 14px;
+	}
+	.dys_second_headline .dys_subtitle{
+		height:60px;
+		overflow:hidden;
+		padding-bottom:18px;
+		line-height: 30px;
+		font-weight: normal;
+	}
+	.dys_second_headline,div.second_2020_headline{
+		padding: 0 30px;
+		margin-bottom: 26px;
+		color:#005293;
+		width: 642px;
+    }
+    
+	.dys_headline{
+		text-align: center;
+		padding-top: 31px;
+		padding-bottom: 8px;
+	}
+	.dys_headline a{
+		color: #005293;
+		font-size: 39px;
+		
+	}
+	
+
+	.dys_subtitle{
+		padding-bottom:23px;
+		text-align: center;
+		font-size: 18px;
+		color: #005293;
+	}
+	.dys_subtitle a{
+		color: #005293;
+	    font-family: "microsoft yahei";
+	    font-size: 18px;
+	}
+	.dys_second_headline .dys_headline a{
+		font-size: 28px;
+		color:#005293;
+	}
+	.dys_second_headline .dys_headline{
+		padding-top: 16px;
+	}
+	.dys_second_headline .dys_subtitle{
+		height:60px;
+		overflow:hidden;
+		padding-bottom:23px;
+		line-height: 30px;
+    }				
+.column1{text-align:center; /*height:130px;*/ height:auto; padding-bottom:20px;    width: 1100px;    margin: 0 auto;}
+.column1_1{ padding-top:31px; padding-bottom:8px; font-family:"å¾®è½¯é›…é»‘", "å®‹ä½“";color:#005293; font-size:39px;}
+.column1_1 a{color:#005293; font-size:39px;}
+
+/*.column1_2{ line-height:20px; height:20px; overflow:hidden;color:#9b9b9b; font-family:"å¾®è½¯é›…é»‘", "å®‹ä½“";}*/
+/*.column1_2 a{font-size:14px; color:#9b9b9b; padding:0; margin:0}*/
+
+.column1_2{ height:auto; overflow:hidden;color:#005293; font-family:"å¾®è½¯é›…é»‘", "å®‹ä½“";font-size:18px;}
+.column1_2 a{font-size:18px; color:#005293; padding:0; margin:0}
+.column1_2 a:hover{color:#025194;}
+	
+	.lft_pic{
+		width:1100px;
+		margin: 0 auto 25px;
+	}
+	
+	.dys_first_module{
+		width: 1100px;
+		margin: 0 auto 30px;
+	}
+	.dys_first_module_left{
+		float: left;
+		width: 702px;
+	}
+	
+	/*ie 6 7 8 */
+	@media \0screen\,screen\9 {
+		.dys_second_headline{
+			background-color:#ccc;
+			border:1px solid #f5f0f0;
+		   
+		}
+		.dys_second_headline h2,.dys_second_headline h3{
+			position: relative;
+		}
+	}
+	
+	.dys_second_headline .dys_headline a{
+		font-size: 28px;
+	}
+	.dys_second_headline .dys_headline{
+		padding-top: 23px;
+	}
+	.dys_second_headline .dys_subtitle{
+		height:60px;
+		overflow:hidden;
+		padding-bottom:18px;
+		line-height: 30px;
+	}
+	
+	#zxbd .latest_report_live_head{
+        margin-bottom: 20px;
+		border-bottom: 1px solid #b2b2b2;
+		
+	}
+	
+	.dys_news_live{
+		float: left;
+    }
+	.qiehuan{
+		width: 230px;
+	}
+	.dys_news_live a{
+		font-size: 24px;
+		color: #1b1b1b;
+		float: left;
+		width: 101px;
+		line-height:36px;
+	}
+	.news_report,.media_focus{
+		display: inline-block;
+		float: left;
+		width: 150px;
+		height: 42px;
+	}
+	
+	.media_focus,.dys_news_live a{
+		background: url(http://www.gov.cn/govweb/xhtml/zhuanti/2021qglhpcpage/images/css_sprites20200218.png) no-repeat -10px -48px;
+		height:36px;
+	}
+	a.mtgz{background-position: -10px -9px;}
+	a.hwsy{background-position:  -10px -95px;}
+	
+	.dys_latest_more{
+		float: right;
+		position: relative;
+		width: 582px;
+		height: 40px;
+	}
+	.dys_latest_more a{
+		position: absolute;
+		top: 16px;
+		right: 4px;
+	    font-family:"microsoft yahei";
+        color: #a0a0a0;
+	    font-size: 16px;
+	}
+	.zxbd{
+		margin-bottom: 22px;
+	}
+	
+	.dys_economicHighlights_list li{
+	    font-size: 18px;
+	    height: 45px;
+	    line-height: 45px;
+	    overflow: hidden;
+	    font-family: "microsoft yahei";
+	    padding-left: 16px;
+		background:url(http://www.gov.cn/govweb/xhtml/zhuanti/2021qglhpcpage/images/20210219fangkuai.png) no-repeat left center;
+		color: #313131;
+	}
+	
+	.dys_economicHighlights_list li a{
+		color: #313131;
+		text-decoration: none;
+		
+	}
+	.book_method{
+		width: 342px;
+		margin-bottom: 40px;
+	}
+	.book_method a{
+		display: block;
+		width: 100%;
+	}
+
+	#mtgz .curr_hov{border-bottom: 4px solid #d7b26b;}
+	
+	#mtgz .latest_report_live_head{
+		margin-bottom: 20px;
+		border-bottom: 1px solid #b2b2b2;
+	}
+	.mtgz .dys_latest_more{
+		width:453px;
+	}
+	.mtgz .dys_latest_more a{
+		display:none;
+	}
+	.mtgz .qh_more .current_more{
+		display: inline-block;
+	}
+	.liebiao{
+		display: none;
+	}
+	.mtgz .curr_leibiao{
+		display: block;
+	}
+	.dys_first_module_right{
+		float: right;
+		width: 372px;
+	}
+	
+	
+	.schedule{
+		 position: relative;
+		 width:370px;
+		 height:265px;
+		 border:1px solid #79c4e6; 
+		 background: url(../images/richeng_bg.jpg) 0 0 no-repeat;
+	}
+	.schedule_title{
+		margin: 10px 0 0 69px;
+	}
+	.schedule_title em{
+		margin-left: 11px;
+		font-family: "microsoft yahei";
+		color: #fff;
+		font-size: 24px;
+		font-style: normal;
+		font-weight: bold;
+	}
+	.richeng{
+		width: 370px;
+		height: 249px;
+		background: #c5e5ff;
+		overflow: hidden;
+	}
+	.overflow_box{
+		position: relative;
+	}
+	.richeng_top_box{
+		overflow: hidden;
+		background: #0071b5;
+	}
+	.richeng_top_box:after{
+		content: "";
+		position: absolute;
+		bottom: -26px;
+		left: 40px;
+		width: 0;
+		height: 0;
+		border-color: #0071b5 transparent  transparent  transparent ;
+		/*border-color: transparent transparent transparent #0071b5 ;*/
+		*border-color: #0071b5 dashed dashed dashed ;
+	    border-style:solid;
+	    border-width:14px;
+		z-index: 999;
+
+	}
+	
+
+
+	.data_line{display:inline-block;width: 15px;height:1px;background-color: #aaaaaa;vertical-align: middle;}
+	.line_right{width:82px;}
+	
+	
+	
+	.dys_congress_members{height:124px;}
+	.dys_after_congress_members{
+		margin: 6px 0 25px 0 ;
+	}
+	.float_box{
+		float: left;
+	}
+	.dys_after_congress_members_box{
+		width: 118px;
+	}
+	.dys_after_congress_members_box2{
+		width: 250px;
+	}
+	.dys_after_congress_members_box2 a{
+		float: left;
+		width: 123px;
+		height: 54px;
+		background: #0f92ef;
+		color: #fff;
+		text-align: center;
+		line-height: 54px;
+	}
+	.dys_after_congress_members_box2 a img{
+		display: block;
+	}
+	.dys_after_congress_members_box a,.dys_after_congress_members_box2 a{
+		display: block;
+		-webkit-transition: all 0.5s; 
+		-moz-transition: all 0.5s; 
+		-o-transition: all 0.5s;
+	}
+	.dys_after_congress_members_box a:hover,.dys_after_congress_members_box2 a:hover{
+		
+	}
+	
+	.dys_after_congress_members_box2 .mg_bottom{
+		margin-bottom: 4px;
+	}
+	.dys_after_congress_members_box2 .mg_right{
+		margin-right: 4px;
+	}
+	.r_common {
+	    width: 370px;
+	}
+	.mt12 {
+	    float: left;
+	}
+	.mt15{
+		margin-top: 0;
+	}
+	
+	.lmtit1 {
+	    width: 100%;
+	    color: #05518f;
+	    font-size: 24px;
+	    font-family: "FZYouHK_512B","å¾®è½¯é›…é»‘","å®‹ä½“";
+	    border-bottom: 1px solid #05518f;
+	    height: 38px;
+	    margin-bottom: 15px;
+	    line-height: 38px;
+	}
+	
+	.lmtit1 .shi2,.lmtit1 .ting2,.lmtit1 .hua{background: url(http://www.gov.cn/govweb/xhtml/zhuanti/2021qglhpcpage/images/lmtit_sprites.png) no-repeat;}
+	.lmtit1 .shi2{background-position: -126px -62px;width: 85px;height: 32px;}
+	.lmtit1 .ting2{width: 96px;height: 32px;background-position: -10px -62px;}
+	.lmtit1 .hua{width: 84px;height: 32px;background-position: -114px -114px;}
+	.lmtit1 a.shi2:hover{background-position:-126px -10px;}
+	.lmtit1 a.ting2:hover{background-position:-10px -10px;}
+	.lmtit1 a.hua:hover{background-position: -10px -114px;}
+	.lmtit1 a{
+		color: #05518f;
+		float: left;
+		font-size: 24px;
+		font-family: "FZYouHK_512B","å¾®è½¯é›…é»‘","å®‹ä½“";
+	}
+	.lmtit1 img {
+	    float: left;
+	    margin-top: 5px;
+	}
+	.noneMargin img{
+		margin-top: 0;
+	}
+	.video_pic {
+	    position: relative;
+	}
+	.video_pic p {
+		text-align: center;
+	}
+	#audio_box{ position:relative; width:99px;height:243px;overflow:hidden; background:#d3d3d3; float:left;}
+    .audiojs{ position:absolute; right:0px; top:2px; box-shadow:none; width:99px;height:241px; background:#ccc;}
+    #audio_box .audio_list{ position:absolute; left:0px; bottom:40px; height:0px; overflow:hidden; z-index:99;background: rgba(0,0,0,0.6); width:100%; right:0px;}
+    #audio_box .time em{ color:#858585;font-style:normal;}
+    #audio_box .time{display: block; font-size:12px;_font-size:12px; border-left:none; color:#858585;text-shadow:none;margin:0;padding:0 0 0 3%; width:94%; height:36px;overflow:hidden;text-align: center;}
+    #audio_box .duration{}
+    .audiojs .progress{ background:#A2D101;}
+    .audiojs .play-pause{width:87px;height:132px;}
+    .audiojs .play-pause{ border-right:none;}
+    .audiojs .loaded,.audiojs .scrubber{ width:470px; display:none;}
+    .audiojs .pause,.audiojs .play{background:url(/govweb/xhtml/2019zhuanti/2020qglh/images/icon_18.gif) no-repeat 0 0; width:61px; height:61px;margin-left:12px; margin-top:72px;}
+    div.playing .play{ background-image:url(/govweb/xhtml/2016gov/images/public/icon_18_click.gif)}
+    .spyp_main{ position:relative; height:280px;}
+    .spyp_main .spyp_con{ position:absolute; left:0px; top:0px;}
+	
+	.spyp_con .title{
+		text-align: center;
+	    font-size: 18px;
+	    margin-top: 10px;
+	    height: 24px;
+	    line-height: 24px;
+	    overflow: hidden;
+	}
+	.spyp_con .title a{
+		color: #313131;
+	}
+
+	.gsfpic .b1{margin:18px 19px 21px 16px;}
+	.gsfpic{width:1100px;height:444px;position:relative;}
+	.b1,.b3{position:absolute;overflow:hidden;}
+	.b1{width:660px;height:444px;top:0;left:0;}
+	.b3{width:404px;height:483px;right:0;top:0;}
+	.lst li{height: 131px;}
+	.lst1 li{width:660px;height:444px; position:relative;}
+	.lst1 li.cloned{display: block;}
+	.lst3 li{margin-bottom: 7px;float:left; }
+
+	.lst3 li .lst3_img,div.tuji_imgs .lst3 li .lst3_img{
+		width: 187px;
+		height: 131px;
+	
+	}
+	.lst3 li.hov .lst3_img{background-color: #69cfff;}
+	.lst3 li .lst3_img img{margin-top:8px;margin-left:8px;}
+	.lst3 .lst_li2 .lst3_title{
+		margin: 0 0 0 4px;
+		background: #009fe6;
+	}
+	.lst3 .lst_li3 .lst3_title{
+		background: #009c95;
+	}
+	.tuji_box ul.lst3{    padding-top: 38px;		padding-left: 13px;}
+	.b3 .lst3 .lst_li2 .lst3_title:after,.b3 .lst3 .lst_li2 .lst3_title after{
+		left: -38px;
+		border-color: transparent #009fe6 transparent transparent  ;
+		*border-color: dashed #009fe6 dashed dashed  ;
+	}
+	.b3 .lst3 .lst_li3 .lst3_title:after,.b3 .lst3 .lst_li3 .lst3_title after{
+		border-color: transparent transparent transparent #009c95 ;
+		*border-color: dashed dashed dashed #009c95 ;
+	}
+	
+	.ban{width:1100px;height:45px;margin:0px auto; margin-bottom:35px;}
+	.mid_box01{width:1100px; margin: 50px auto 68px;}
+	.arr{display:inline-block;width:41px;height:67px;background:url(/govweb/xhtml/2019zhuanti/2020qglh/images/arr.png) no-repeat;cursor:pointer;position:absolute;top:175px;z-index:9;}
+	.lef{background-position:-48px 0;left:635px;}
+	.rig{background-position:0 0;left:16px;}
+
+
+	.lst1 li .title{position:absolute;left: 0;bottom: 0;width:100%;height:45px;line-height:45px;
+	text-align: center;font-size: 18px;
+	overflow: hidden;font-family: Microsoft YaHei; z-index: 1; background: url(http://www.gov.cn/govweb/xhtml/2019zhuanti/2020qglh/images/dys_tuji.png) 0 0 no-repeat;} 
+	.lst1 li .title a{color: #fff;} 
+	.lst3 li .title{position:absolute;left: 0;bottom: 0;width:100%;height: 45px;line-height: 45px;color: #fff;overflow: hidden;font-family: Microsoft YaHei; z-index: 1;background-color:#7b95c0;} 
+	.lst3 li .title a{position:absolute;left: 0;bottom: 0;width:100%;height: 45px;line-height:45px;color:#fff; font-size:18px; text-align:center;overflow: hidden;font-family: Microsoft YaHei;z-index: 1; opacity:1; }
+	
+	/* IE7 hack */
+	
+	div.date{*margin:12px 0 0 25px;}
+	div.date,.date a span,.date a{*line-height:31px;}
+	.data_line{*margin-top:15px;
+		-overflow:hidden;}
+	.date a{display:none;
+	*float:left;	
+	}
+	.date span{	*float:left;}
+	.date i{	*float:left;}
+	.clearIE {
+		display:none;
+		*display:block;
+		*clear: both;
+		*height:0;
+		-font-size:0;
+		-line-height:0;
+		-overflow:hidden;
+	}	
+	
+	.dys_title a:hover{-color:#fff;}
+	.dys_second_headline{*background-image:none;}
+		/* IE7 hack end*/
+	/*wjh code start*/
+	
+	/* will css start */
+	.lst3 li .transition-box{
+		_width:215px;
+		_overflow:hidden;
+	}
+	.lst3 li .lst3_img{
+		_width:210px;
+		_overflow:hidden;
+	}
+	.lst_li2 .lst3_img{
+		_margin-right:3px;
+	}
+	.lst_li1 .transition-box,.lst_li3 .transition-box{
+		
+		_margin-right:6px;
+	}
+	
+		.dys_second_headline .dys_subtitle{
+			height:60px;
+			overflow:hidden;
+			padding-bottom:23px;
+			line-height: 30px;
+		}
+		.dys_second_headline{
+			padding: 0 30px;
+			margin-bottom: 60px;
+			background-color: #fff;
+			background-color:rgba(221,221,221,0.6);
+			color:#005293;
+		}
+	.dys_headline{
+			text-align: center;
+			padding-top: 31px;
+			padding-bottom: 8px;
+		}
+		.dys_headline a{
+			color: #005293;
+			font-size: 39px;
+			
+		}
+		.dys_subtitle{
+			padding-bottom:23px;
+			text-align: center;
+			font-size: 18px;
+			color: #005293;
+		}
+		.dys_subtitle a{
+			color: #005293;
+		    font-family: "microsoft yahei";
+		    font-size: 18px;
+		}
+		
+		
+		.dys_second_headline .dys_subtitle{
+			height:60px;
+			overflow:hidden;
+			padding-bottom:23px;
+			line-height: 30px;
+		}					
+	
+	
+		.dys_nav_father{
+			z-index: 10000;
+			display: none;
+			height:38px;
+			background: url(http://www.gov.cn/govweb/xhtml/2016gov/images/public/nav_bg.jpg) repeat-x 0 0;
+			 position:fixed;
+			  top:0px; width:100%; height:40px;margin:0 auto; text-align:center; background:#005292;z-index: 999;
+		  _position: absolute; 
+			_top: expression(eval(document.documentElement.scrollTop));
+			    
+		}
+		.dys_nav{
+			margin: 0 auto;
+			padding: 9px 0 9px 100px;
+			/* padding: 9px 0; */
+			
+		}
+		.dys_nav a{
+			float: left;
+		    color: #eed98f;
+		    font-size: 20px;
+		    line-height: 19px;
+		    _line-height:21px;
+		    padding: 0 8px;
+		    border-right: 2px solid #eed98f;
+		      font-family: "å¾®è½¯é›…é»‘","å®‹ä½“";
+		}
+		.dys_nav a.dys_index_logo{
+			width: 119px;
+		    height: 28px;
+		    background: url(http://www.gov.cn/govweb/xhtml/zhuanti/2021qglhpcpage/images/20200219lhzljzhLogo.png) 0 0 no-repeat;
+		    padding: 0;
+		    border: none;
+		    margin-top: -4px;
+		}
+		.dys_nav a:hover{
+			color: #fff;
+		}
+		.dys_nav .dys_english{
+			border-right: none;
+		}
+			
+		.mt40{
+			margin-top: 40px;
+		}
+	
+	
+	
+
+	/*will code end*/
+	
+	
+	/*dingyousi code start*/
+		.dys_coverPage div,.dys_coverPage{
+			display: none;
+		}
+		.dys_coverPage {
+			display: block;
+			position: absolute;
+			z-index: 10000;
+			height: 100%;
+			margin: 0;
+			background-Image: url(/govweb/xhtml/2019zhuanti/2020qglh/images/2019cover_bg.jpg);
+			background-position: center top;
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+		
+		.dys_emblem img{
+			margin: 48px 0 0 68px;
+		}
+		
+		.dys_coverPage_arrow{
+			display: none;
+			cursor: pointer;
+			z-index: 10000;
+			position: fixed;
+			left: 50%;
+			bottom: 5%;
+			width: 72px;
+			height: 70px;
+			margin-left: -32px;
+			text-align: center;
+			font-family: "microsoft yahei";
+			font-size: 16px;
+			color: #075a9e;
+			padding-top: 48px;
+			background: url(http://www.gov.cn/govweb/xhtml/2019zhuanti/2020qglh/images/2019cover_jrzt.png)  no-repeat;
+			background-position: center 0;
+			 _position:absolute;
+		    _bottom:auto;
+		    _top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0)));
+		}
+		
+		
+		.dys_light img{
+			
+			position: absolute;
+			z-index: 1000;
+		}
+		
+	    .high_version_browser{
+	    	position: absolute;
+	    	left: 45%;
+	    	bottom: 0;
+	    	color: #075a9e;
+	    	font-size: 12px;
+	    	z-index: 100;
+	    }
+	/*dingyousi css code*/
+	
+	
+	
+	.dys_creative_products{
+		position: relative;
+		width: 1067px;
+		margin: 0 auto;
+	}
+	.dys_creative_products_list {
+		
+	}
+	.dys_creative_products_list li{
+		float: left;
+		position: relative;
+		width: 1067px;
+		height: 576px;
+	}
+	
+	.container{
+		width: 1067px;
+	    margin: 0 auto;
+	}
+	
+	.row-matrix{
+		position: relative;
+		/*margin-bottom: 30px;*/
+		background: url(http://www.gov.cn/govweb/xhtml/2019zhuanti/2020qglh/images/cycp_bg.jpg) center -60px no-repeat;
+		height: 770px;
+	}
+	.row-matrix .flip-container {
+	  position: relative;
+	  height: 576px;
+	}
+	
+	.row-matrix .flip-container .flip-block {
+	  	position: absolute;
+	
+	  transition: all 0.3s;
+	}
+	.row-matrix .flip-container .flip-block-1 {
+		width: 364px;
+		height: 278px;
+		left: 0;
+		top: 0;
+	}
+	.row-matrix .flip-container .flip-block-2 {
+		width: 364px;
+		height: 278px;
+		left: 703px;
+		top: 0;
+	}
+	.row-matrix .flip-container .flip-block-3 {
+		width: 364px;
+		height: 278px;
+		left: 0;
+		top: 297px;
+	}
+	.row-matrix .flip-container .flip-block-4 {
+		width: 364px;
+		height: 278px;
+		left: 703px;
+		top: 297px;
+	}
+	.row-matrix .flip-container .flip-block-5 {
+		width: 316px;
+		height: 161px;
+		left: 375px;
+		top: 0;
+	}
+	.row-matrix .flip-container .flip-block-6 {
+		width: 316px;
+		height: 161px;
+		left: 375px;
+		top: 414px;
+	}
+	
+	.row-matrix .flip-container .flip-block .flip-item {
+	  position: absolute;
+	  top: 0;
+	  left: 0;
+	  width: 100%;
+	  height: 100%;
+	  transition: all 1.2s;
+	  z-index: 1;
+	  opacity: 0;
+	  transform: scale(0.5, 0.5);
+	}
+	
+	.row-matrix .flip-container .flip-block .flip-item.on {
+	  z-index: 5;
+	  opacity: 1;
+	  transform: scale(1, 1);
+	}
+	
+	.row-matrix .flip-container .flip-block .flip-item img {
+	  display: block;
+	  width: 100%;
+	  height: 100%;
+	}
+	
+	.row-matrix .flip-container .flip-block .flip-item .btn {
+	  visibility: hidden;
+	  opacity: 0;
+	  content: 'Ã¦Å¸Â¥Ã§Å“â€¹Ã¨Â¯Â¦Ã¦Æ’â€¦';
+	  position: absolute;
+	  top: 50%;
+	  margin-top: -20px;
+	  left: 0;
+	  right: 0;
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 100px;
+	  height: 40px;
+	  background: #bf0009;
+	  color: #fff;
+	  line-height: 40px;
+	  text-align: center;
+	  border-radius: 20px;
+	  box-shadow: 0 10px 15px -8px #333, 0 0 0 3px #fff;
+	  transition: all 0.3s;
+	}
+	
+	.row-matrix .flip-container .flip-block .flip-item .btn:hover {
+	  background: #8c0007;
+	}
+	
+	.row-matrix .flip-container .flip-block .flip-item:hover .btn {
+	  visibility: visible;
+	  opacity: 0.8;
+	}
+	
+	
+	.row-matrix .flip-container .flip-block-center {
+	  position: absolute;
+	  width: 33.3333%;
+	  height: 280px;
+	  transition: all 0.3s;
+	  left: 33.3333%;
+	  top: 186.666666667px;
+	  height: 186.666666667px;
+	}
+	
+	.row-matrix .flip-container .flip-block-center .flip-item {
+	  position: absolute;
+	  top: 0;
+	  left: 0;
+	  padding: 6px;
+	  width: 100%;
+	  height: 100%;
+	  transition: all 1s;
+	}
+	
+	.row-matrix .flip-container .flip-block-center .flip-item img {
+	  display: block;
+	 margin: 0 auto;
+	}
+	
+	.row-matrix .arrow {
+	  position: absolute;
+	  top: 50%;
+	  margin-top: -69px;
+	  width: 48px;
+	  height: 136px;
+	  left: -80px;
+	  background: url("../images/arrow-pre-grey-l.png");
+	  cursor: pointer;
+	}
+	
+	.row-matrix .arrow.arrow-right {
+	  background: url("../images/arrow-next-grey-l.png");
+	  left: auto;
+	  right: -80px;
+	}
+	
+	/*ie6/7Ã¤Â¸â€¹Ã¥Ë†â€ºÃ¦â€žÂÃ¤ÂºÂ§Ã¥â€œÂÃ¦Â Â·Ã¥Â¼Â*/
+	
+	.dys_row-matrix{
+		position: relative;
+		display: none;
+		margin-bottom: 30px;
+	    background: url(http://www.gov.cn/govweb/xhtml/2019zhuanti/2020qglh/images/cycp_bg.jpg) center -60px no-repeat;
+	    height: 796px;
+	}
+	.dys_container{
+		width: 1067px;
+	    margin: 0 auto;
+	    position: relative;
+	}
+	.dys_row-matrix .dys_flip-container {
+	  position: relative;
+	  height: 576px;
+	  overflow: hidden;
+	}
+	
+	.dys_row-matrix .dys_flip-container .dys_flip-block {
+	  	position: absolute;
+	
+	}
+	
+	.dys_row-matrix .dys_flip-container .dys_flip-block-1 {
+		width: 364px;
+		height: 278px;
+		left: 0;
+		top: 0;
+	}
+	.dys_row-matrix .dys_flip-container .dys_flip-block-2 {
+		width: 364px;
+		height: 278px;
+		left: 703px;
+		top: 0;
+	}
+	.dys_row-matrix .dys_flip-container .dys_flip-block-3 {
+		width: 364px;
+		height: 278px;
+		left: 0;
+		top: 297px;
+	}
+	.dys_row-matrix .dys_flip-container .dys_flip-block-4 {
+		width: 364px;
+		height: 278px;
+		left: 703px;
+		top: 297px;
+	}
+	.dys_row-matrix .dys_flip-container .dys_flip-block-5 {
+		width: 316px;
+		height: 161px;
+		left: 375px;
+		top: 0;
+	}
+	.dys_row-matrix .dys_flip-container .dys_flip-block-6 {
+		width: 316px;
+		height: 161px;
+		left: 375px;
+		top: 414px;
+	}
+	
+	.dys_row-matrix .dys_flip-container .dys_flip-block .dys_flip-item {
+	  position: absolute;
+	    top: 0;
+	    left: 0;
+	    padding: 6px;
+	    width: 100%;
+	    height: 100%;
+	    transition: all 1s;
+	}
+	
+	
+	
+	.dys_row-matrix .dys_flip-container .dys_flip-block img {
+	  display: block;
+	  
+	}
+	
+	
+	
+	.dys_row-matrix .dys_flip-container .dys_flip-block-center {
+	  position: absolute;
+	  width: 33.3333%;
+	  height: 280px;
+	  left: 33.3333%;
+	  top: 186.666666667px;
+	  height: 186.666666667px;
+	}
+	
+	.dys_row-matrix .dys_flip-container .dys_flip-block-center .dys_flip-item {
+	  position: absolute;
+	  top: 0;
+	  left: 0;
+	  padding: 6px;
+	  width: 100%;
+	  height: 100%;
+	}
+	.dys_row-matrix .dys_flip-container .dys_flip-block-center .dys_flip-item img{
+		display: block;
+	    margin: 0 auto;
+	}
+	
+	
+	.dys_row-matrix .dys_arrow {
+	  position: absolute;
+	  top: 50%;
+	  margin-top: -69px;
+	  width: 48px;
+	  height: 136px;
+	  left: -80px;
+	  background: url("../images/arrow-pre-grey-l.png");
+	  cursor: pointer;
+	}
+	
+	.dys_row-matrix .dys_arrow.dys_arrow-right {
+	  background: url("../images/arrow-next-grey-l.png");
+	  left: auto;
+	  right: -80px;
+	}
+	.dys_creative_products_list{
+		position: absolute;
+		width: 100000px;
+	}
+	.dys_creative_products_list li{
+		float: left;
+	}
+	/*Ã¥Ë†â€ºÃ¦â€žÂÃ¤ÂºÂ§Ã¥â€œÂcssÃ§Â»â€œÃ¦ÂÅ¸*/
+	/*dingyousi code end*/
+	
+	/*guoshaofeng code start*/
+	body,h1,h2,h3,h4,h5,h6,p,img,table,tr,td,ul,ol,li,dl,dt,dd,input,a{margin:0px; padding:0px;}
+	img{border:none;}
+	ul,li{ list-style:none;}
+	a{outline-style:none;color:#000;text-decoration:none}
+	a:hover{text-decoration:none;}
+	.gsf_mid{width:1100px;height:auto;margin:0 auto; }
+	.gsf_dht{margin:40px auto 25px; clear:both;width: 1096px;}
+	.gsf_dht img{
+		
+	}
+	.gsf_mid_bg{
+		margin-bottom: 50px;
+	}
+	.mid_wxzlsjh{width:1100px;margin:0 auto; background:url(../images/2022wxzlsjhtop.jpg) no-repeat top center;}
+	.gsf_nxssm{margin:0 auto; padding-top:0; 	}
+	.gsf_nxssm h2, .gsf_wmzms h2{
+		height:30px;
+		margin:30px 0; 
+	line-height:40px; clear:both;color:#005292;
+	 text-align:center; font-size:24px;font-family:"å¾®è½¯é›…é»‘";}
+	.gsf_nxssm h2 a, .gsf_wmzms h2 a{color:#005292;}
+	.gsf_ssmht{height:auto; overflow:hidden;margin:0 auto; clear:both;}
+	
+		/*Ã©â‚¬â€°Ã¦â€¹Â©Ã¥Ë†â€ Ã§Â±Â»*/
+		
+		
+		.gsf_item{
+					float: left;
+					padding: 22px 22px 0;
+					width: 290px;
+					background: #fefefe;
+					margin-left: 25px;
+					margin-bottom: 16px;
+					display: inline;
+					position: relative;
+					-webkit-border-radius:8px;
+					-ms-border-radius:8px;
+					-o-border-radius:8px;
+					-moz-border-radius:8px;
+					border-radius:8px;
+				}
+				.dys_item_person_media{
+					position: relative;
+					height: 100px;
+				}
+				.gsf_item_title{
+					margin-bottom: 24px;
+				}
+				.gsf_item_title a{
+		font-family: "å¾®è½¯é›…é»‘";
+		font-size: 20px;
+		color: #0664b2;
+				}
+				 .gsf_item p{
+		font-family: "å¾®è½¯é›…é»‘";
+		font-size: 14px;
+		color: #333;
+		line-height: 27px;
+		height:115px;
+		overflow:hidden;
+		text-indent: 2em;
+				}
+				 .gsf_item_person_media{
+					position: absolute;
+				    width: 100%;
+				    height: 68px;
+				    bottom: 34px;
+				    right: 0;
+				}
+				 .gsf_item_person{
+					position: absolute;
+					left: 170px;
+					top: 21px;
+					font-family: "å¾®è½¯é›…é»‘";
+					font-size: 16px;
+				}
+				.gsf_item_media{
+					position: absolute;
+					left: 110px;
+					top: 21px;
+				}
+				.allows {
+				    float: left;
+				    background: url(http://www.gov.cn/govweb/xhtml/2016gov/hudong/2020lianghuiwoxiangzonglishuojuhua/images/line1.png) bottom right no-repeat;
+				    height: 26px;
+				    font-size: 16px;
+					color: #0762b1;
+				}
+				.gsf_prev,.gsf_next{
+					background: url(http://www.gov.cn/govweb/xhtml/2019zhuanti/2020qglh/images/prev_next_bg.png) no-repeat;
+					width: 44px;
+					height: 82px;
+					position: absolute;
+					top: 50%;
+					margin-top: -41px;
+				}
+				.gsf_prev{
+					background-position: 0 0;
+					left: 0;
+				}
+				.gsf_next{
+					background-position: 0 -82px;
+					right: 0;
+				}
+				.gsf_more{
+		position: absolute;
+		right: 35px;
+		bottom: 0;
+		font-family: "å¾®è½¯é›…é»‘";
+		font-size: 22px;
+		color: #0664b2;
+				}
+				.gsf_more1{
+		position: absolute;
+		right: 0;
+		bottom: 0;
+		font-family: "å¾®è½¯é›…é»‘";
+		font-size: 22px;
+		color: #0664b2;
+				}
+		/*Ã§Â§â€™Ã¦â€¡â€šÃ¥Â¸Â¸Ã¥Å Â¡Ã¤Â¼Å¡Ã¥â€ â€¦Ã¥Â®Â¹*/
+		.gsf_mdgwy_box{
+			margin: 0 auto 60px;
+			width: 1100px;
+		}
+		.gsf_mdgwy_video {
+			position: relative;
+			width: 780px;
+			height: 506px;
+			border: 10px solid #edeef0;
+			border-bottom: none;
+			float: left;
+		}
+		.gsf_jctj{
+			float: right;
+			width: 300px;
+		}
+		.gsf_jctj h5{
+			height: 43px;
+			background: #fff;
+			text-align: center;
+			vertical-align: middle;
+			line-height: 43px;
+			font-family: "microsoft yahei";
+			font-size: 20px;
+			font-weight:inherit;
+			border:1px solid #b8cbe1;
+		}
+		.gsf_jctj h5 a{
+			color: #175ba4;
+		}
+		.gsf_jctj ul{
+			height: 516px;
+			overflow: auto;
+		}
+		.gsf_jctj ul li{
+			line-height: 22px;
+			padding: 30px 18px;
+			border-bottom: 1px solid #145f9f;
+			background: #286cb9;
+			font-family: "microsoft yahei";
+			font-size: 16px;
+			color: #fff;
+		}
+		.gsf_jctj ul li.current{background:#004899;}
+		.gsf_jctj ul li:hover{
+			cursor: pointer;
+			
+		}
+		
+		.gsf_mdgwy_video img{
+			width: 778px;
+			height: 505px;
+			border: 1px solid #b6dae0;
+			border-bottom: none;
+		}
+		.gsf_anniu{
+			position: absolute;
+			left: 33px;
+			bottom: 16px;
+			z-index: 12;
+		}
+		.gsf_anniu a{
+			display: block;
+			width: 93px;
+			height: 93px;
+			background: url(http://www.gov.cn/govweb/xhtml/zhuanti/2018twoSessions/images/anniu.png) 0 0 no-repeat;
+		}
+		.videoPlay{
+			position: absolute;
+			left: 0;
+			top: 0;
+			z-index: 10;
+			width: 778px;
+			height: 505px;
+		}
+		.gsf_src{
+			display: none;
+		}
+		/*ÃƒÂ¦ Ã¢â‚¬Â¡ÃƒÂ©Ã‚Â¢Ã‹Å“*/
+		.gsf_mdgwy_title{
+			height: 88px;
+			background: #edeef0;
+			line-height: 88px;
+			border-bottom: 1px solid #e7e7e7;
+			margin-bottom: 17px;
+			font-weight: inherit;
+		}
+		.gsf_mdgwy_title a{
+			font-family: "microsoft yahei";
+		    font-size: 36px;
+		    color: #2b59b0;
+		    display: block;
+		    width: 1000px;
+		    margin: 0 auto;
+		}
+		/*Ã¦Ë†â€˜Ã¥Ââ€˜Ã¦â‚¬Â»Ã§Ââ€ Ã¨Â¯Â´Ã¥ÂÂ¥Ã¨Â¯Â*/
+		.gsf_talking_premier{
+			width: 1100px;
+			margin:  0 auto 45px;
+			background: url(http://www.gov.cn/govweb/xhtml/2019zhuanti/2020qglh/images/youWhat.png) 0 0 no-repeat;
+		}
+		.gsf_none_marginBottom{
+			margin-bottom: 0;
+		}
+		.gsf_talking_premier_memo{
+			font-family: "microsoft yahei";
+		    font-size: 16px;
+		    line-height: 30px;
+		    width: 409px;
+		    color: #fff;
+		    padding: 145px 0 0 31px;
+			text-indent:2em;
+		}
+		.talking_message_img{
+			margin-bottom: 23px;
+			
+			width: 100%;
+		}
+		.talking_message_img a{
+			float: left;
+		}
+		.gsf_talking_premier_left{
+			float: left;
+			width: 555px;
+		}
+		.talking_message_father{
+			background: url(http://www.gov.cn/govweb/xhtml/2019zhuanti/2020qglh/images/ybk.png) 0 0 no-repeat;
+			padding-top: 28px;
+			height: 622px;
+			margin-top: 21px;
+		}
+		.gsf_talking_message{
+			margin: 8px 0 0 25px;
+			width: 248px;
+		}
+		.gsf_talking_xinxiang{
+			width: 236px;
+			margin-left: 29px;
+		}
+		/*Ã¥Â¯Â¼Ã¨Ë†Âª*/
+		#nav{
+			display: none;
+		}
+		#nav li{color:#000; }
+		#nav{ position:absolute; top:0px; width:100%; height:40px;margin:0 auto; text-align:center; background:#005292;z-index: 100;}
+	/*guoshaofeng code end*/
+	/* will css end */
+	
+	
+	/* dingyousi css start */
+	/* Ã¥Ë†â€ºÃ¦â€žÂÃ¤ÂºÂ§Ã¥â€œÂ */
+	.qglhcycp2020{
+		position: relative;
+		width: 1300px;
+		height: 453px;
+		margin:0 auto;
+	}
+	.mt40{
+		margin-bottom:68px;
+	}
+	
+	
+	.qglhcycp2020 .arrow-left {
+	  background: url(http://www.gov.cn/govweb/xhtml/2019zhuanti/2020qglh/images/arrow-left.png) no-repeat 0 0;
+	  position: absolute;
+	  left: 70px;
+	  top: 50%;
+	  margin-top: -20px;
+	  width: 24px;
+	  height: 41px;
+	}
+	.qglhcycp2020 .arrow-right {
+	  background: url(http://www.gov.cn/govweb/xhtml/2019zhuanti/2020qglh/images/arrow-right.png) no-repeat 0 0;
+	  position: absolute;
+	  right: 68px;
+	  top: 50%;
+	  margin-top: -20px;
+	  width: 24px;
+	  height: 41px;
+	}
+
+
+	
+	/*  */
+	/* dingyousi css end */
+
+
+
+	.dys_schedule_content_list li{
+		position: relative;
+		display: none;
+		
+	}
+
+	
+	.dys_schedule_content_list_left{
+		width: 265px;
+		margin: 13px 0 0 33px;
+		text-align: center;
+		
+	}
+	.dys_schedule_content_list_left span{
+		display: block;
+		height: 33px;
+	}
+		.dys_schedule_content_list_left em { margin-left:33px;}
+	.dys_schedule_content_list_left em a{
+		font-family: "microsoft yahei";
+		font-size: 18px;
+		color: #00a0e9;
+		font-style: normal;
+	}
+	.dys_schedule_content_list_left em i{
+		font-size: 18px;
+		font-style: normal;
+	}
+	.dys_schedule_content_list_right{
+		width: 264px;
+		height: 155px;
+		overflow: hidden;
+		margin-left: 26px;
+		margin-top: 9px;
+	}
+	.dys_schedule_content_list_right p{
+		font-family: "microsoft yahei";
+		font-size: 16px;
+		line-height: 22px;
+		color: #fff;
+		
+	}
+	.dys_schedule_content_list_right p.dys_theme a{
+		color: #fff;
+	}
+	.dys_schedule_day_father{
+		width:80px;
+		height:265px;
+		position: absolute;
+		right: -6px;
+		top: 0;
+	}
+	.dys_schedule_day {
+	    width: 80px;
+	    height: 210px;
+	    position: relative;
+	    overflow: hidden;
+	    left: -24px;
+		top: 18px;
+	}
+	
+	.dys_schedule_day_shuxian {
+	    content: '';
+	    width: 1px;
+	    height: 240px;
+	    background: #d7b26b;
+	    position: absolute;
+	    left: 26px;
+	    top: 12px;
+	    z-index: 10;
+	}
+	
+	
+	.dys_schedule_day_list{
+		position: absolute;
+		left: 0;
+		top: 0;
+	}
+	
+	.dys_schedule_day_list li{
+		width: 80px;
+		height: 35px;
+		line-height: 35px;
+		vertical-align: middle;
+		font-family: "æ–¹æ­£ä¸­é›…å®‹ç®€";
+		font-size: 14px;
+		text-align: center;
+		border-right:1px solid #fff;
+		background-position: 0 0;
+		background-repeat: no-repeat;
+	}
+	.dys_schedule_day_list li a {
+	    display: inline-block;
+	    width: 56px;
+	    color: #fff;
+	    background-image: url(../images/rilituoyuan.png);
+	    background-position: 15px center;
+	    background-repeat: no-repeat;
+	    padding-left: 14px;
+	}
+	.dys_schedule_day_list li:hover{
+		cursor: pointer;
+	}
+	.dys_schedule_day_list li.day_list_active{
+		background-image: url(../images/rilidaohang.png);
+	}
+	.dys_schedule_day_list li.day_list_active a {
+	    color: #fddfa0;
+	    background-image: url(../images/rilituoyuan_active.png);
+	    background-position: 12px center;
+	    padding-left: 14px;
+	}
+	.preBtn,.nextBtn{
+		width:35px;
+		height: 25px;
+		position: absolute;
+		background-position: 0 0;
+		background-repeat: no-repeat;
+		left: 9px;
+	}
+	.preBtn:hover,.nextBtn:hover{
+		cursor: pointer;
+	}
+	.preBtn{
+		top: 2px;
+		background-image:url(../images/2022richengprevnextbtn.png);
+		background-position: 0 0 ;
+	}
+	.preBtn:hover{
+		background-image:url(../images/2022richengprevnextbtn.png);
+		background-position: 0 -25px ;
+	}
+	.nextBtn{
+		bottom: 2px;
+		background-image:url(../images/2022richengprevnextbtn.png);
+		background-position: 0 -50px ;
+	}
+	.nextBtn:hover{
+		background-image:url(../images/2022richengprevnextbtn.png);
+		background-position: 0 -75px ;
+	}
+	
+	.dys_schedule_content_list{width:320px;height:253px; float:left;}
+	
+
+
+	div.second_2020_headline {
+		overflow:hidden;
+		background-color: #f2f2f2;
+	}
+	.creativeProductContent p a {
+	    display: block;
+	    height: 72px;
+	    overflow: hidden;
+	}
+	.cycpBg{
+		padding: 50px 0 116px;
+		background: url(http://www.gov.cn/govweb/xhtml/2019zhuanti/2020qglh/images/cycpbg.png) 0 -50px no-repeat;
+	}
+	#tuji{
+		margin:38px auto 42px;
+	}
+	.mid_box01{margin-bottom: 42px;}
+	.gsf_dht{margin:36px auto 40px;}
+	.dys_after_congress_members_box a:hover,.dys_after_congress_members_box2 a:hover{
+		margin-top: -5px;
+	}
+	
+	.gsf_item_person{
+		width: 120px;
+	}
+	
+
+		/* æœ€æ–°æŠ¥é“ */
+		#zxbd .dys_economicHighlights_list {
+		height:180px;
+		overflow: hidden;
+	}
+	#zxbd .dys_economicHighlights_list li{
+		height:auto;
+		overflow: visible;
+		background-position-y: 19px;
+	}
+	.dys_schedule_content_list_right>ul{
+		padding: 21px 20px 10px 14px;
+	}
+	.dys_schedule_content_list_right li{
+		margin: 0 12px;
+		margin-bottom: 24px;
+	}
+	div.zxbd-text a{
+		border-bottom: 4px solid #d7b26b;
+		background: url(http://www.gov.cn/govweb/xhtml/zhuanti/2021qglhpcpage/images/zxbd0220.png) no-repeat center;
+	}
+	#mtgz .mtgz.curr_hov{
+		background: url(http://www.gov.cn/govweb/xhtml/zhuanti/2021qglhpcpage/images/mtgz0220.png) no-repeat center top;
+	
+	}
+	#mtgz .hwsy.curr_hov{
+		background: url(http://www.gov.cn/govweb/xhtml/zhuanti/2021qglhpcpage/images/hwsy0220.png) no-repeat center top;
+	
+	}
+	/* 20200514 */
+
+	.wmjyzjhd_banner {
+		display: block;
+		height: 180px;
+	}
+	
+	.wmliuyan {
+		height: 63px;
+		overflow: hidden;
+	}
+	
+
+	
+	
+	
+	.dys_second_headline .dys_headline {
+			padding-top: 23px;
+			padding-top: 23px\0;
+			font-weight: normal;
+	}
+	/* å›¾é›†è§†é¢‘åˆ†åˆ«åŠ é“¾æŽ¥ */
+	.tuji_title{
+		position: relative;
+		width: 1100px;
+		margin: 0 auto 30px;
+	}
+	
+	.cycpBg .qglhcycp2020 .arrow-left{
+		left: 60px;
+	}
+	.cycpBg .qglhcycp2020 .arrow-right{
+		right: 58px;
+	}
+
+	
+	 .outlineVisionGoalsContent{
+		 padding-top: 62px;
+	 }
+	
+	 .zhj-bbqw-cont, .zhj-bbjd{
+		margin: 20px auto 0;
+	 }
+
+	 /*  */
+	 .outlineVisionGoalsItemScroll li h5 a{
+		font-size: 24px;
+    	color: #0e4981;
+    	line-height: 24px;
+	 }
+	
+	 .mid_wxzlsjh{
+		
+	 }
+
+	 
+	 .sudu-text .suduFont p{
+		margin-bottom: 20px;
+	 }
+	 .qw-text,.xgbd-text,.reyi-text{
+		margin-top: 10px;
+	 }
+	 .pagination{ background-color:#fff;}
+	@media screen and (min-width:0\0) { 
+		/* å…¼å®¹ IE9 , IE10 ,IE11 */
+		.dys_second_headline .dys_headline{
+			padding-top: 23px;
+		}
+	}
+	.book_method{
+		    margin-bottom: 32px;
+	}
+	.qw-text .zhj-bbqw-cont{
+		line-height: 31px;
+	}
+	.jiedu-text .zhj-bbjd li{
+		line-height: 55px;
+	}
+/* 2-20ä¿®æ”¹ */
+	
+	.zhj-bbqw-cont, .zhj-bbjd{
+		width: 740px;
+	}
+	.outlineVisionGoalsItem .o{
+		overflow-x: hidden;
+	}
+	.qw-text .zhj-bbqw-cont{
+		line-height: 32px;
+	}
+	.qw-text .addclick1,
+	.qw-text .addclick2,
+	.qw-text .addclick3,
+	.qw-text .addclick4,
+	.qw-text .addclick5,
+	.qw-text .addclick6,
+	.qw-text .addclick7,
+	.qw-text .addclick8,
+	.qw-text .addclick9,
+	.qw-text .addclick10,
+	.qw-text .addclick11,
+	.qw-text .addclick12,
+	.qw-text .addclick13,
+	.qw-text .addclick14,
+	.qw-text .addclick15,
+	.qw-text .addclick16,
+	.qw-text .addclick17,
+	.qw-text .addclick18,
+	.qw-text .addclick19,
+	.qw-text .addclick20{
+		color: #015293;
+		text-decoration: underline;
+	}
+	.qw-text .fhdb {
+		position: absolute;
+		display: none;
+		right: 157px;
+		bottom: 110px;
+		cursor: pointer;
+	}
+	.qw-text .fhdb img{
+		width: 31px;
+		height: 25px;
+	}
+	.gsf_item .gsf_item_con{
+		position: relative;
+		height: 162px;
+	}
+	.gsf_item .gsf_item_con a {
+		display: block;
+		word-break:break-all;  
+		width: 280px;
+		line-height: 27px;  
+		position: relative;
+		overflow: hidden;
+	}
+	.gsf_item_con .text_after {
+		display: none;
+		width: 50px;
+		width: 52px\0;
+		*width: 52px;
+		height: 27px;
+		position: absolute; 
+		bottom: 0; 
+		right: 0; 
+		background: -webkit-linear-gradient(left, transparent, #fff 55%); 
+		background: -o-linear-gradient(right, transparent, #fff 55%);
+		background: -moz-linear-gradient(right, transparent, #fff 55%);
+		background: linear-gradient(to right, transparent, #fff 55%);
+		background: #fff\0;
+		*background: #fff;
+	}
+	.voice_minister {
+	    margin-top: -200px;
+		margin-bottom: 30px;
+	    position: relative;
+	    z-index: 100;
+	}
+	.voice_minister_content {
+	    position: relative;
+	    height: 400px;
+	    width: 1185px;
+	    margin: 0 auto;
+	}
+	.voice_minister_item{
+		display: block;
+		position: absolute;
+		left: 0;
+		top: 0;
+		width: 1185px;
+		height: 400px;
+	}
+	.voiceMinister{
+		width: 1100px;
+		margin: 0 auto;
+	}
+	.voiceMinister .swiper-container{
+		height: 400px;
+	}
+	 .arewBtn{
+		position: absolute;
+		z-index: 100;
+		margin-top: -28px;
+		top: 42%;
+		width: 26px;
+		height: 52px;
+		background-position: 0 0;
+		background-repeat: no-repeat;
+	}
+	.prevbtn1,.prevbtn2,.prevbtn3{
+		left: 0;
+		background-image: url(../images/prevbtn.png);
+	}
+	.nextbtn1,.nextbtn2,.nextbtn3{
+		right: 0;
+		background-image: url(../images/nextbtn.png);
+	}
+	
+	.bzfbhZindex{
+		z-index: 100;
+	}
+	.bztdZindex{
+		z-index: 10;
+	}
+
+	
+	#zxbd .latest_report_live_head, #mtgz .latest_report_live_head {
+		margin-bottom: 10px;
+	}
+	.zxbd {
+		margin: 0px 0 6px;
+	}
+	.book_method {
+		margin-bottom: 20px;
+	}
+	.outlineVisionGoalsNav a{
+		text-indent: -6px;
+	}
+	.back_top {
+	    width: 48px;
+	    height: 48px;
+	    padding-top: 26px;
+	    background: url(http://www.gov.cn/govweb/xhtml/2019zhuanti/2021mobileNationalTwoSessions/images/backTop.png) no-repeat top center;
+	    cursor: pointer;
+	    position: fixed;
+	    _position: absolute;
+	    top: 85%;
+	    left: 50%;
+	    margin-left: 556px;
+		z-index: 1000;
+	}
+	.back_top a {
+	    display: block;
+	    text-align: center;
+	    background: #c1c1c1;
+	    font-size: 16px;
+	    font-family: "å¾®è½¯é›…é»‘";
+	    color: #fff;
+	    line-height: 20px;
+	    padding: 4px 3px;
+	}
+	.outlineVisionGoalsItem .addScroll20210303{
+		height: 360px;
+		line-height: 30px;
+	}
+	
+	.zhj-bbqw-cont, .zhj-bbjd {
+	    margin: 0 auto;
+	}
+	
+	
+	.dys_schedule_day_list li a{
+		color: rgb(126, 206, 244);
+	}
+	
+	.prevBtn, .nextBtn{
+		outline: none;
+	}
+	
+	
+	
+
+
+
+
+.contaier-auto {
+	
+}
+.tuji-contaier-bg{
+	margin-bottom: 30px;
+}
+
+.tuji_box{
+	width: 1068px;
+	margin: 0 auto;
+	padding: 16px 16px 0 16px;
+	background: url(../images/2022tuji_bg.png) 0 0 repeat-x;
+}
+.tuji_imgs_left{
+	width: 678px;
+	height: 442px;
+}
+.tuji_imgs_left .imgs_item{
+	 position: relative;
+}
+.tuji_imgs_left .imgs_item .title {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 43px;
+    line-height: 43px;
+    text-align: center;
+    font-size: 18px;
+    overflow: hidden;
+    font-family: Microsoft YaHei;
+	z-index: 1;
+    background: url(../images/2022imgstitlebg.png) 0 0 repeat-x;
+}
+.tuji_imgs_left .imgs_item .title a{
+	color: #fff;
+}
+.tuji_imgs_right{
+	width: 390px;
+	height: 442px;
+	background: url(../images/2022tujiright.jpg) 0 0 no-repeat;
+	
+}
+.tuji_imgs_right ul{padding-top: 20px;}
+.tuji_imgs_right li{
+	height: 122px;
+    width: 362px;
+	background-color: #fff;
+	margin: 0 auto 18px;
+	overflow: hidden;
+}
+.tuji_imgs_right li.act{
+	background-color: #d7b26b;
+}
+.tuji_imgs_right li.act a{
+	color: #fff;
+}
+.tuji_imgs_right li img,.tuji_imgs_right li span{
+	vertical-align: middle;
+}
+.tuji_imgs_right li img{
+	float: left;
+}
+.tuji_imgs_right li a:hover{
+	color: #fff;
+	font-size: 20px;
+}
+.tuji_imgs_right li span {
+    display: inline-block;
+    font-size: 18px;
+    width: 155px;
+    padding: 0 12px;
+    float: left;
+    padding-top: 18px;
+}
+.tuji_imgs_bottom{
+	margin-top: 20px;
+}
+.zljzh_lookmore a{
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.tuji_imgs_bottom .swiper-container {
+    height: 116px;
+	width: 1068px;
+}
+.tuji_imgs_bottom .slide-tuji{
+	float: left;
+	background-color: #184b9a;
+	height: 116px;
+	position: relative;
+}
+.tuji_imgs_bottom .slide-tuji a{
+	overflow: hidden;
+	zoom: 1;
+	color: #fff;
+	font-size: 0;
+}
+.tuji_imgs_bottom .slide-tuji a .duanshipicon{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	z-index: 100;
+	display: block;
+	width: 103px;
+	height: 29px;
+	background: url(../images/2022dsp.png) no-repeat center;
+}
+.tuji_imgs_bottom .slide-tuji span{
+	display: inline-block;	
+	font-size: 16px;
+	width: 144px;
+	height: 100px;
+	padding: 8px 12px;
+	line-height: 24px;
+}
+.tuji_imgs_bottom .slide-tuji a img,.tuji_imgs_bottom .slide-tuji a span{
+	float: left;
+}
+.tuji_imgs_bottom .slide-tuji a img:hover{
+	-webkit-transition: all 1s;
+	-moz-transition: all 1s;
+	transition: all 1s;
+	transform: scale(1.1);
+}
+.tuji_imgs_bottom .slide-tuji a img{
+	-webkit-transition: all 1s;
+	-moz-transition: all 1s;
+	transition: all 1s;
+	transform: scale(1);
+}
+
+.tuji_imgs_bottom .more_video{
+	height: 40px;
+	line-height: 40px;
+	color: #fff;
+	text-align: right;
+	font-size: 16px;
+}
+.tuji_imgs_bottom .more_video a{color:#005292;}
+
+
+
+/* é’æ¶™å‰°æµœÑƒæ§ */
+.cycp-contaier-bg{
+	background: url(../images/2022cycpbg.png) no-repeat  center 0;
+	margin-bottom: 30px;
+}
+.cycp-box {
+    position: relative;
+	width: 1200px;
+    margin: 0 auto;
+}
+.cycp-box .arrow-left {
+    background: url(../images/prevbtn.png) no-repeat 0 0;
+    position: absolute;
+    left: -45px;
+    top: 50%;
+    margin-top: -48px;
+    width: 61px;
+    height: 96px;
+}
+.cycp-box .arrow-right {
+    background: url(../images/nextbtn.png) no-repeat 0 0;
+    position: absolute;
+    right: -74px;
+    top: 50%;
+    margin-top: -48px;
+    width: 61px;
+    height: 96px;
+}
+.cycp-box .swiper-container {
+	width: 1128px;
+    height: 518px;
+}
+
+.creativeProductContent {
+    float: left;
+	width: 376px;
+    position: relative;
+	background: url(../images/2022cycplistbg.png) 0 0 no-repeat;
+}
+
+.cycp-box .textbg {
+    width: 213px;
+    height: 81px;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 0;
+    bottom: -46px;
+    padding: 25px 42px 0 24px;
+    text-align: left;
+}
+.cycp-box .textbg a{
+	font-size: 18px;
+	font-weight: bold;
+	color: #fff;
+}
+.creativeProductContent .headerImg{
+	width: 334px;
+	height: 418px;
+	padding: 22px;
+}
+
+/* æˆ‘å‘æ€»ç†è¯´å¥è¯ */
+.dys_choose_category{
+	background: url(../images/2022wxzlsjhbottom.jpg) 0 0 no-repeat;
+	height: 526px;
+}
+.dys_choose_category_nav {
+	padding-top: 83px;
+}
+.dys_choose_category_nav li{
+	float:left;
+	width: 124px;
+	height: 110px;
+	margin-left: 29px;
+	background-color:#e6f8ff;
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+	border-radius: 10px;
+	margin-bottom:20px;
+	text-align:center;
+	background-position: center 10px;
+	background-repeat:no-repeat;
+}
+
+
+
+
+.dys_see_other_speaking{
+	width: 170px;
+	background: url(../images/seebg.png) no-repeat 154px center;
+	background-color: #e6f8ff;   
+	height: 30px;
+    line-height: 30px;
+	border-radius: 15px;
+}
+.dys_prompt{
+	height: 29px;
+	line-height: 29px;
+	background-color: #f5f5f5;
+	border-radius: 20px;
+}
+
+.dys_message_form p.dys_text_nickname,.detailedAddress,.dys_text_occupation_father{
+	width: 49%;
+}
+
+.city-picker-span{
+	width: 445px;
+	border-radius: 20px;
+}
+.dys_message_form p.dys_submit .submit{
+	height: 40px;
+	border-radius: 20px;
+}
+.dys_select{
+	top: 38px;
+	width: 442px;
+	border-radius: 20px;
+}
+ul.mtpt{
+	display: flex;
+	flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+	padding: 0 8px;
+}
+ul.mtpt li{
+	width: 150px;
+	height: 80px;
+	margin: 20px 0 0 0;
+	border: 1px solid #e5e5e5;
+	border-radius: 10px;
+	text-align: center;
+}
+ul.mtpt li img{
+	margin: 6px 0;
+}
+ul.mtpt li.mr_7{
+	margin-right: 7px;
+}
+ul.lastmtpt{
+	padding: 0 183px;
+}
+ul.buwei{
+	border-bottom: 1px dashed #bdbdbd;
+}
+ul.buwei li,ul.sheng li{padding: 12px;}
+ul.buwei li a,ul.sheng li a{
+cursor: default;
+font-size: 16px;
+color: #0a8ce1;
+font-weight: normal;
+cursor: default;
+}
+ul.sheng{
+	margin-bottom: 34px;
+}
+.gsf_saoma img{
+	position: relative;
+    top: 75px;
+	height: 90%;
+}
+.gsf_saoma span{
+	display: block;
+	width: 13px;
+	height: 12px;
+	top: 83px;
+    right: 79px;
+    /* border: 1px solid #000; */
+    z-index: 10;
+}
+
+.dys_h1 {background-image:url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-1.png);}
+.dys_h2 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-2.png);}
+.dys_h3 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-3.png);}
+.dys_h4 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-4.png);}
+.dys_h5 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-5.png);}
+.dys_h6 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-6.png);}
+.dys_h7 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-7.png);}
+.dys_h8 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-8.png);}
+.dys_h9 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-9.png);}
+.dys_h10 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-10.png);}
+.dys_h11 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-11.png);}
+.dys_h12 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-12.png);}
+.dys_h13 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-13.png);}
+.dys_h14 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-14.png);}
+.dys_h15 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-15.png);}
+.dys_h16 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-16.png);}
+.dys_h17 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-17.png);}
+.dys_h18 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-18.png);}
+.dys_h19 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-19.png);}
+.dys_h20 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-20.png);}
+.dys_h21 {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-21.png);background-position-y: center!important;}
+
+.dys_h1:hover {background-image:url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-1S.png);}
+.dys_h2:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-2S.png);}
+.dys_h3:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-3S.png);}
+.dys_h4:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-4S.png);}
+.dys_h5:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-5S.png);}
+.dys_h6:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-6S.png);}
+.dys_h7:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-7S.png);}
+.dys_h8:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-8S.png);}
+.dys_h9:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-9S.png);}
+.dys_h10:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-10S.png);}
+.dys_h11:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-11S.png);}
+.dys_h12:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-12S.png);}
+.dys_h13:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-13S.png);}
+.dys_h14:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-14S.png);}
+.dys_h15:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-15S.png);}
+.dys_h16:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-16S.png);}
+.dys_h17:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-17S.png);}
+.dys_h18:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-18S.png);}
+.dys_h19:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-19S.png);}
+.dys_h20:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-20S.png);}
+.dys_h21:hover {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-21S.png);background-position-y: center!important;}
+
+.dys_h1.active {background-image:url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-1S.png);}
+.dys_h2.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-2S.png);}
+.dys_h3.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-3S.png);}
+.dys_h4.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-4S.png);}
+.dys_h5.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-5S.png);}
+.dys_h6.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-6S.png);}
+.dys_h7.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-7S.png);}
+.dys_h8.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-8S.png);}
+.dys_h9.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-9S.png);}
+.dys_h10.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-10S.png);}
+.dys_h11.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-11S.png);}
+.dys_h12.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-12S.png);}
+.dys_h13.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-13S.png);}
+.dys_h14.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-14S.png);}
+.dys_h15.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-15S.png);}
+.dys_h16.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-16S.png);}
+.dys_h17.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-17S.png);}
+.dys_h18.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-18S.png);}
+.dys_h19.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-19S.png);}
+.dys_h20.active {background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-20S.png);}
+.dys_h21.active {
+	background-image: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/icon/icon-21S.png);
+	background-position-y: center!important;
+}
+
+.dys_choose_category_nav li:hover{
+	cursor: pointer;
+	background-color: #0a8ce1;
+}
+.dys_choose_category_nav li:hover a{
+	color: #fff;
+}
+.dys_choose_category_nav li a{
+	display: block;
+	padding-top: 73px;
+	font-size: 16px;
+	color: #000;
+	padding-bottom: 20px;
+}
+
+
+.city-picker-span .arrow,.select-var {
+	background: url(https://liuyan.www.gov.cn/2022wxzlsjh/images/jiantou.png) right 0 no-repeat;
+	position: absolute;
+	right: 0;
+	top: 3px;
+	display: block;
+	width: 70px;
+	height: 34px;
+	z-index: 20;
+	content: '.';
+	color: transparent;
+    pointer-events: none;
+    background-size: auto 100%;
+}
+
+#zfgzbg_box{
+	margin-top: -206px;
+}
+
+
+
+
+
+
+
